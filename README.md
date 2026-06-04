@@ -1,45 +1,95 @@
 # Hi, I'm Salman 👋
 
-Backend Engineer / Data Engineer with a background in Bioinformatics and Mathematics.
+Backend Engineer | Data Engineer || Mathematics | Bioinformatics
 
-Currently building software for laboratory and genomics workflows, with previous experience developing data platforms, automation pipelines and analytics solutions in logistics and healthcare.
+Building software, data systems and analytical tools across biotech, logistics and scientific computing.
 
-## Interests
+📍 United Kingdom
+🔗 LinkedIn: https://www.linkedin.com/in/salman-f-464bb231/
+📧 salman.fawad@hotmail.com
 
-- Backend Engineering
-- Data Engineering
-- Automation
-- Statistics
-- Machine Learning
-- Quantitative Finance
+## About Me
 
-## Technologies
+I am a Backend Engineer with a background spanning software engineering, data science, scientific computing and bioinformatics.
+
+My career has taken me through healthcare, genomics, logistics and laboratory informatics, where I have built production software, data pipelines, automation tools, dashboards and machine learning solutions. I enjoy solving technically challenging problems at the intersection of software, mathematics and data.
+
+## Tech Stack
 
 ### Languages
-Python • SQL • Ruby • R • JavaScript
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 ### Data & Analytics
-Pandas • Power BI • Databricks • scikit-learn
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?logo=databricks&logoColor=white)
 
 ### Engineering
-Docker • GitHub Actions • Linux • PostgreSQL
 
-### Scientific Computing
-Nextflow • BioConductor • Seurat
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ## Featured Projects
 
-### Fitness Analytics Platform
-Personal data engineering project integrating nutrition, activity and health metrics into automated dashboards.
+### 🏋️ Fitness Analytics Platform
+Personal data engineering project integrating nutrition, activity and health metrics into automated dashboards and reporting workflows.
 
-### scRNA-seq Power Analysis Toolkit
-Research project from my MPhil in Bioinformatics.
+### 🧬 Differential Gene Expression Power Analysis Toolkit
+Research software developed during my MPhil in Bioinformatics, focused on statistically robust power analysis for RNA-seq studies.
 
-### Logistics Analytics & Automation
-Examples of ETL pipelines, reporting automation and optimisation workflows.
+## Career / Education
 
-## Education
+**Backend Engineer (LIMS Platform)**  
+UK Biocentre
 
-MSci Mathematics (First Class) – Imperial College London
+Building and maintaining production laboratory software used in genomics and biotechnology workflows.
 
-MPhil Bioinformatics – Imperial College London / UK DRI
+---
+
+**Data Scientist / Data Engineer**  
+TJX Europe
+
+Developed analytics platforms, ETL pipelines, machine learning models and executive dashboards supporting large-scale supply chain operations.
+
+---
+
+**MPhil Bioinformatics (Neurogenomics)**  
+Imperial College London / UK DRI
+
+Research focused on RNA-seq analysis, differential gene expression and statistical methodology development.
+
+---
+
+**Scientific Software Developer**  
+University of Oxford
+
+Worked on MRI analysis pipelines and scientific software for neuroimaging research.
+
+---
+
+**MSci Mathematics (First Class Honours)**  
+Imperial College London
+
+## Currently Exploring
+
+- Backend Architecture
+- Data Engineering
+- Machine Learning Systems
+- Quantitative Finance
+- Cloud Infrastructure
+- Startup Development
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salsalsal97&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salsalsal97&layout=compact)
