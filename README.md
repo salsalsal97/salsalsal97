@@ -43,7 +43,7 @@ My career has taken me through healthcare, genomics, logistics and laboratory in
 ### 🏋️ [Fitness Analytics Platform](https://github.com/salsalsal97/fitness-data-pipeline)
 Personal data engineering project integrating nutrition, activity and health metrics into automated dashboards and reporting workflows.
 
-### 🧬 Differential Gene Expression Power Analysis Toolkit
+### 🧬 [Power Analysis for Differential Expression in scRNA-seq data](https://github.com/salsalsal97/Power_Analysis)
 Research software developed during my MPhil in Bioinformatics, focused on statistically robust power analysis for RNA-seq studies.
 
 ## Career / Education
