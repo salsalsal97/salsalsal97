@@ -87,9 +87,3 @@ Imperial College London
 - Quantitative Finance
 - Cloud Infrastructure
 - Startup Development
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salsalsal97&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salsalsal97&layout=compact)
