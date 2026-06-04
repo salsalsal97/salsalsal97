@@ -40,7 +40,7 @@ My career has taken me through healthcare, genomics, logistics and laboratory in
 
 ## Featured Projects
 
-### 🏋️ Fitness Analytics Platform
+### 🏋️ [Fitness Analytics Platform](https://github.com/salsalsal97/fitness-data-pipeline)
 Personal data engineering project integrating nutrition, activity and health metrics into automated dashboards and reporting workflows.
 
 ### 🧬 Differential Gene Expression Power Analysis Toolkit
