@@ -25,6 +25,9 @@ I am a Backend Engineer with a background spanning software engineering, data sc
 
 ## Featured Projects
 
+### 💸 [Personal Finance Tracker](https://github.com/salsalsal97/personal-finance-tracker)
+A personal finance web application built with Flask for importing, categorising, and analysing transactions from multiple bank accounts.
+
 ### 🏋️ [Fitness Analytics Platform](https://github.com/salsalsal97/fitness-data-pipeline)
 Personal data engineering project integrating nutrition, activity and health metrics into a reporting workflow and dashboard.
 
