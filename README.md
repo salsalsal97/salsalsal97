@@ -8,7 +8,7 @@ Backend Engineer | Data Engineer || Mathematics | Bioinformatics
 
 ## About Me
 
-I am a Backend Engineer with a background spanning software engineering, data science and bioinformatics. My career has taken me through healthcare, genomics, logistics and laboratory informatics, where I have built production software, data pipelines, automation tools and dashboards. I enjoy solving technically challenging problems at the intersection of software, mathematics and data.
+I am a Backend Engineer/Data Engineer with a background spanning software engineering, data science and bioinformatics. My career has taken me through healthcare, genomics, logistics and laboratory informatics, where I have built production software, data (ETL) pipelines, automation tools and dashboards. I enjoy solving technically challenging problems at the intersection of software, mathematics and data.
 
 ## Tech Stack
 
@@ -32,25 +32,25 @@ A personal finance web application built with Flask for importing, categorising,
 Personal data engineering project integrating nutrition, activity and health metrics into a reporting workflow and dashboard.
 
 ### 🧬 [Power Analysis for Differential Expression in scRNA-seq data](https://github.com/salsalsal97/Power_Analysis)
-Research software developed during my MPhil in Bioinformatics, focused on statistically robust power analysis for RNA-seq studies.
+Research software developed during my MPhil in Bioinformatics, focused on statistically robust power analysis for scRNA-seq studies. Research has been developed into a publication, which is currently in pre-print.
 
 ## Career
 
 **Backend Engineer (LIMS Platform)**  
 UK Biocentre
 
-Building and maintaining production laboratory software used in genomics and biotechnology workflows.
+Building and maintaining production laboratory software used in biotechnology and genomics workflows.
 
 ---
 
 **Data Engineer**  
 TJX Europe
 
-Developed analytics platforms, ETL pipelines, machine learning models and executive dashboards supporting large-scale supply chain operations.
+Developed ETL pipelines, executive dashboards, automations and machine learning models supporting large-scale supply chain operations.
 
 ---
 
 **Scientific Software Developer**  
 University of Oxford
 
-Worked on MRI analysis pipelines and scientific software for neuroimaging research.
+Worked on MRI data analysis pipelines and built scientific software for neuroimaging research.
